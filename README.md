@@ -1,5 +1,5 @@
 # Linkedin_scraper ⛏️🌐
-Local Python app capable of scraping a LinkedIn profile and storing it to train an ML model
+Local Python app capable of scraping a LinkedIn profile and storing it to train a ML model
 
 ## Brief description and parts of the project
 The project's main objective is to develop an automated tool to analyze LinkedIn profiles and determine whether they match a certain position. The project consists of the following main files:
