@@ -6,3 +6,6 @@ share/
 Scripts/
 Lib/
 _pycache_/
+.zip
+.vscode/
+example.py
