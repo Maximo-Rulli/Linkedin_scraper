@@ -6,7 +6,7 @@ _pycache_/
 .vscode/
 
 *.cfg
-#*.txt
+*.txt
 *.pyc
 *.zip
 
