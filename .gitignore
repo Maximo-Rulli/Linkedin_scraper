@@ -1,8 +1,8 @@
 *.cfg
 *.txt
 *.pyc
-./Include/*.*
-./share/*.*
-./Scripts/*.*
-./Lib/*.*
-./_pycache_/*.*
+Include/
+share/
+Scripts/
+Lib/
+_pycache_/
