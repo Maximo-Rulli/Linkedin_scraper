@@ -33,5 +33,5 @@ The program is pretty straightforward to use so I will not go into great depth a
 
 
 ## Disclaimer and use ⚠️
-This tool is not meant to make any profit out of it (as the license states) and is not intended to copy or damage LinkedIn in any way. It is just a more human-friendly way of constructing a dataset for the incoming LLM era. It is suggested to use the tool under regulation and not spam the 'Scrape and save!' button frequently to avoid being banned from the platform.
+This tool is not meant to make any profit out of it and is not intended to copy or damage LinkedIn in any way. It is just a more human-friendly way of constructing a dataset for the incoming LLM era. It is suggested to use the tool under regulation and not spam the 'Scrape and save!' button frequently to avoid being banned from the platform.
 Thank you!!!
