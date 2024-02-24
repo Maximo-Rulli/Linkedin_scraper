@@ -16,4 +16,22 @@ The project's main objective is to develop an automated tool to analyze LinkedIn
 
 ## How to use? 🤔
 The program is pretty straightforward to use so I will not go into great depth about any tool:
-1. 
+
+1. Open the app.py file
+
+2. Log in to your LinkedIn account once the main page is opened
+
+3. Copy and paste the link of the LinkedIn profile that you wish to scrape
+
+4. Select the position to which the person is going to be labeled
+
+5. Select 'Match' or 'No match' depending on the profile's correspondence with the selected position
+
+6. Press 'Scrape and save!' to scrape the profile and save it (only experience and aptitudes will be scraped)
+
+7. The scraped information will be displayed on the app and saved to the dataset file
+
+
+## Disclaimer and use ⚠️
+This tool is not meant to make any profit out of it (as the license states) and is not intended to copy or damage LinkedIn in any way. It is just a more human-friendly way of constructing a dataset for the incoming LLM era. It is suggested to use the tool under regulation and not spam the 'Scrape and save!' button frequently to avoid being banned from the platform.
+Thank you!!!
